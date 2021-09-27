@@ -1,0 +1,70 @@
+body {
+	background: mediumpurple;
+	font-family: "arial";
+	text-align: center;
+}
+
+h1 { 
+	color: lightpink; 
+	font-family: "arial"; 
+}
+
+h2 { 
+	color: greenyellow ; 
+	font-family: "arial"; 
+}
+
+h3 { 
+	color: lightpink ; 
+	font-family: "arial"; 
+}
+
+.avatar {
+	border-radius: 50%;
+	width: 300px;
+	height: 300px;
+	object-fit: cover;
+	box-shadow: 10px 10px 10px white;
+	border: 5px solid lightpink;
+}
+
+a {
+	background: lightgreen;
+	color: white;
+	font-weight: bold ;
+	padding: 20px;
+	display: inline-block ;
+	border-radius: 100px;
+	text-decoration: none;
+	margin: 100px;
+
+
+}
+
+
+a:hover{
+	background: hotpink;
+}
+
+.num1 {
+	border: 5px dashed mediumpurple; 
+	padding: 30px;
+	width: 300px;
+	margin: 0px auto;
+}
+
+.num2 {
+	border: 5px solid hotpink;  
+	padding: 30px;
+	margin: 0px auto;
+}
+
+
+
+.ane {
+	border: 5px solid hotpink;
+}
+
+
+
+
